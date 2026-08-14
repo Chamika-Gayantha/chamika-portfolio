@@ -75,11 +75,4 @@ You can run this website on your local machine using a simple HTTP server.
 2. Install the "Live Server" extension.
 3. Right-click on `index.html` and select "Open with Live Server".
 
-## 🌐 How to Deploy (Vercel )
 
-**Vercel / Netlify:**
-1. Push your code to a GitHub repository.
-2. Log into Vercel or Netlify.
-3. Click "Add New Project" or "Import from GitHub".
-4. Select your repository.
-5. Leave build settings as default (since it's static HTML/CSS/JS) and click Deploy.
