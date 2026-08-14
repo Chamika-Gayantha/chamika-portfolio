@@ -75,15 +75,7 @@ You can run this website on your local machine using a simple HTTP server.
 2. Install the "Live Server" extension.
 3. Right-click on `index.html` and select "Open with Live Server".
 
-## 🌐 How to Deploy (GitHub Pages / Vercel / Netlify)
-
-**GitHub Pages:**
-1. Initialize a Git repository in this folder: `git init`
-2. Add files and commit: `git add .` and `git commit -m "Initial commit"`
-3. Create a repository on GitHub.
-4. Link it: `git remote add origin https://github.com/Chamika-Gayantha/repository-name.git`
-5. Push: `git push -u origin main`
-6. Go to repository Settings > Pages, select the `main` branch, and save.
+## 🌐 How to Deploy (Vercel )
 
 **Vercel / Netlify:**
 1. Push your code to a GitHub repository.
